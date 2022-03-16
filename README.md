@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VictorH74
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in to learn programing
+- 🌱 I’m currently learning web development using TypeScript
 
 <hr>
  
