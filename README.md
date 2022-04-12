@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorH74
 - 👀 I’m interested in to learn programing
-- 🌱 I’m currently learning web development using React
+- 🌱 I’m currently learning programing with Motoko
 
 <hr>
 
