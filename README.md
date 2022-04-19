@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorH74
 - 👀 I’m interested in to learn programing
-- 🌱 I’m currently learning programing with Motoko
+- 🌱 I’m currently learning to build DApps using motoko
 
 <hr>
 
