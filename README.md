@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VictorH74
 - 👀 I’m interested in to learn programing
-- 🌱 I’m currently learning to build DApps using motoko
-- :octocat: Portfolio -> https://vh-portfolio.netlify.app/
+- :octocat: Portfolio -> https://victorh-almeida.netlify.app/
 
 <hr>
 
